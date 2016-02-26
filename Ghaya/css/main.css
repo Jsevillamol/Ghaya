@@ -879,6 +879,12 @@ ul.tag-cloud li {
   padding: 20px;
   display: inline-block;
 }
+.registration-forII {
+  border: 0;
+  background-color: #fff;
+  padding: 20px;
+  display: inline-block;
+}
 #bottom {
   color: #bdc3c7;
 }
