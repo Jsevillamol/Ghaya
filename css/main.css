@@ -247,6 +247,18 @@ body > section {
 .orange {
   background-color: #f39c12;
 }
+.datos{
+	Font-size: 1.70em;
+	font-weight:bold;
+	}
+.datos1{
+	Font-size: 1.70em;
+	
+	}
+	.tusdatos{
+		font-size: 40px;
+		border-bottom:2px solid black;
+	}
 .emerald {
   background-color: #68c8cd;
 }
